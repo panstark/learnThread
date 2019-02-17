@@ -1,4 +1,3 @@
-# 《Java并发编程与高并发解决方案》代码
-
-
-
+This is the code for concurrentThread.
+learn every day and be better every day
+come on!
